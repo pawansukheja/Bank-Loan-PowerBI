@@ -42,7 +42,7 @@ o	Continuously improve the loan approval algorithms based on new data and insigh
 
 By implementing these strategies, we can enhance our loan approval processes, reduce the occurrence of bad loans, and better serve our customers. Let's drive these improvements forward💼💡📈
 
-Maven Analytics- https://app.powerbi.com/view?r=eyJrIjoiMDI4NDU5YzQtMWY4Ny00MDBlLWFiYjctY2FjMDQzMzlmODRiIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
+Maven Analytics- https://mavenanalytics.io/project/15853
 
 Live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiMDI4NDU5YzQtMWY4Ny00MDBlLWFiYjctY2FjMDQzMzlmODRiIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
 
