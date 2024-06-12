@@ -31,3 +31,13 @@ o	Use advanced analytics and machine learning models to identify patterns in goo
 o	Continuously improve the loan approval algorithms based on new data and insights.
 By implementing these strategies, we can enhance our loan approval processes, reduce the occurrence of bad loans, and better serve our customers. Let's drive these improvements forward💼💡📈
 
+Maven Analytics- https://app.powerbi.com/view?r=eyJrIjoiMDI4NDU5YzQtMWY4Ny00MDBlLWFiYjctY2FjMDQzMzlmODRiIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
+
+Live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiMDI4NDU5YzQtMWY4Ny00MDBlLWFiYjctY2FjMDQzMzlmODRiIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
+
+![Bank Loan Summary](https://github.com/pawansukheja/Bank-Loan-PowerBI/assets/163865690/d02d899f-978a-4211-996a-dd688faaa410)
+
+![Bank Loan Overview](https://github.com/pawansukheja/Bank-Loan-PowerBI/assets/163865690/91107ddc-8e1b-48e0-bba8-89fc6a73158e)
+
+![Bank Loan Model](https://github.com/pawansukheja/Bank-Loan-PowerBI/assets/163865690/79376ea3-1789-4a73-be3b-0b2383560508)
+
